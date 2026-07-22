@@ -1,6 +1,8 @@
 ### Hi there, I'm Mohamed 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Junior+Back-End+Developer;C%23+%26+C++ Enthusiast;Building+Robust+Console+Apps+%26+Systems" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Junior+Back-End+Developer;C%23+%26+C++ Enthusiast;Building+Robust+Console+Apps+%26+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -30,5 +32,5 @@ Here are some of the key systems I've engineered:
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed2003-mgd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed2003-mgd&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
